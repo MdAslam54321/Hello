@@ -4,5 +4,6 @@ public class Main {
         System.out.println("feature-branch");
         System.out.println("feature2");
         System.out.println("feature3");
+        System.out.println("feature4");
     }
 }
